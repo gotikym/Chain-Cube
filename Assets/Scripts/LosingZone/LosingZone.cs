@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-public class LoseZone : MonoBehaviour
+public class LosingZone : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {

@@ -12,8 +12,8 @@ public class SwipeDetector : MonoBehaviour
 
     private void Update()
     {
-        //MouseSwipe();
-        TouchSwipe();
+        MouseSwipe();
+        //TouchSwipe();
     }
 
     private void TouchSwipe()
